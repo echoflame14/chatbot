@@ -1,5 +1,6 @@
 {
-    "compilerOptions": {
+  "compilerOptions": {
+      "types": ["vite/client"],
       "target": "ES2020", // or "ESNext"
       "module": "ESNext", // or "ES2020", "node16", or "nodenext"
       "outDir": "./dist",

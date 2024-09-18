@@ -2,10 +2,10 @@
 node_modules/
 
 # Environment variables
-.env
-
 # Log files
 *.log
+
+.env
 
 # OS-specific files
 .DS_Store
